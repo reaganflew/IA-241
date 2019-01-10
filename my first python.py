@@ -12,6 +12,14 @@ print ("hello world")
 a=3
 
 
+# In[8]:
+
+
+a=4
+b=3
+print (a+b)
+
+
 # In[6]:
 
 
@@ -22,6 +30,7 @@ print (a)
 
 # 1. item 1
 # 2. item 2
+# 3. item 3
 # 
 # JMU [website](https://www.jmu.edu/)
 
@@ -29,14 +38,6 @@ print (a)
 
 
 5+4
-
-
-# In[8]:
-
-
-a=4
-b=3
-print (a+b)
 
 
 # In[9]:
